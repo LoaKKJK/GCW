@@ -1,9 +1,9 @@
 # GCW
-Site de dinossauros
-Objetivo:Um site maneirissimo de dinossauros irados
-Telas:3, Anquilossauro, Carnotauro, Spinossauro
-Framework:Materialize
-LP:Java Script, HTML, CSS
-Cronologia: 2 horas
-Dedicação: Ao dinossauros que foram mortos cruelmete na segunda guerra mundial:(
-Autoria: Orange Tango
+Site de dinossauros<br>
+Objetivo:Um site maneirissimo de dinossauros irados<br>
+Telas:3, Anquilossauro, Carnotauro, Spinossauro<br>
+Framework:Materialize<br>
+LP:Java Script, HTML e CSS como front-end<br>
+Cronologia: 2 horas<br>
+Dedicação: Ao dinossauros que foram mortos cruelmete na segunda guerra mundial:(<br>
+Autoria: Orange Tango<br>
